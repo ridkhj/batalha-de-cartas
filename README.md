@@ -4,7 +4,7 @@ trabalho de paradigmas
 consiste em uma matriz 9x9 que é o tabuleiro dessa batalha, dois jogadores cada um com 5 cartas
 participam dessa batalha. As cartas seguem o modelo abaixo
 
-------- 
+------- \n
 |  5  |
 |     | 
 |7   6| 
